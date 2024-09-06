@@ -1,0 +1,1 @@
+This is simple text. This text will be written to file and then read to count word frequency.
